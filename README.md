@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**rojatv5/rojatv5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Roja TV. My main interest lies in Data Science, Machine learning, Python and Tableau. I have basic knowledge of Power BI and AWS quicksight. I am a quick learner and always thrive for perfection.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on covid19 Prediction project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Power BI.
+
+👯 I’m looking to collaborate on any Data Science Projects using Python and Tableau.
+
+🤔 I’m looking for help with Machine learning Projects.
+
+💬 Ask me about Python, Data Science and Tableau.
+
+📫 How to reach me: rojakaran5@gmail.com
+
+😄 Pronouns- You can give one!!
+
+⚡ Fun fact: Can survive an entire day in Coffee!!
